@@ -161,5 +161,19 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-#Configurations
-config.py
+# Python
+*.pyc
+__pycache__/
+
+# Environment
+venv/
+
+# Video and audio files
+*.mp4
+*.mp3
+
+# Config files
+config.ini
+
+# Jupyter Notebook
+.ipynb_checkpoints

@@ -1,6 +1,10 @@
-tweepy
+requests
 transformers
 torch
 gtts
 moviepy
-requests
+configparser
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client

@@ -1,0 +1,6 @@
+TWITTER_USERNAME = 'tu_twitter_username'
+TWITTER_PASSWORD = 'tu_twitter_password'
+PEXELS_API_KEY = 'tu_pexels_api_key'
+YOUTUBE_API_KEY = 'tu_youtube_api_key'
+HUGGINGFACE_API_KEY = 'tu_huggingface_api_key'
+TIKTOK_API_KEY = 'tu_tiktok_api_key'
